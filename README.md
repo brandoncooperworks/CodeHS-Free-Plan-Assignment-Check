@@ -38,7 +38,7 @@ As a result, I can transition directly into reviewing student work rather than s
 ## How It Works
 
 <br>
-<img src="screenshots/Parts12.jpg" width = 500 align = "right" hspace=20/>
+<img src="screenshots/Parts12.jpg" width = 500 align = "right" hspace=20 vspace=20/>
 
 1. Starting the Program: When the program runs, the teacher is prompted to choose which class to begin with, according to the menu options provided.
    <br><br>
