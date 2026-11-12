@@ -1,4 +1,4 @@
-# CodeHS Free Plan Assignment Viewer in Python
+# CodeHS Free Plan Assignment Loader in Python
 
 A Python automation tool that streamlines the grading workflow for computer science teachers using the CodeHS free plan. The program eliminates repetitive browser navigation and reducing time spent waiting for student assignments to load.
 
