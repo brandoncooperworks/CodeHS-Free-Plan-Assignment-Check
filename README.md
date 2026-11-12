@@ -44,6 +44,7 @@ As a result, I can transition directly into reviewing student work rather than s
    <br><br>
 2. Logging In: The CodeHS Login Page will be launched in a separate browser after a class is selected where the teacher will enter their credentials.
    - The teacher may optionally enter their CodeHS credentials to allow the program to automatically log in to CodeHS each time it runs.
+<br><br><br><br>
 
 <img src="screenshots/StudentSelect.jpg" width = 300 align = "right" hspace=20 vspace=40/>
 <br><br>
