@@ -53,7 +53,7 @@ As a result, I can transition directly into reviewing student work rather than s
    - See sample files provided
 
 <p align="center">
-    <img src="screenshots/Complete_Example.jpg" width = 700 vspace = 20>
+    <img src="screenshots/Complete_Example.jpg" width = 700 vspace = 40/>
 </p>
 
 4. Automated URL Generation: When a student is selected, the browser immediately opens up the student's student overview page, and all selected assignments.
