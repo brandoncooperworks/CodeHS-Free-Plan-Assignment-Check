@@ -1,6 +1,14 @@
 # CodeHS Free Plan Assignment Viewer in Python
 
-A Python automation tool that streamlines the grading workflow for computer science teachers using the CodeHS free plan. The program eliminates repetitive browser navigation and reducing time spent waiting for student assignments to load.
+#### Streamlines the grading workflow for CodeHS Free Plan.
+
+Eliminates repetitive browser navigation and reduces time spent waiting for student assignments to load.
+
+Many online computer science curriculums offer great content in the form of problems to be solved. However, navigation between students, courses, or assignments can often be a very tedious process. This program allows the user to cut down on the time required to grade by taking advantage of the URL structure that organizes courses, students, and assignment IDs.
+
+## What I learned:
+
+Using the Selenium Library to automate opening various web pages of a students work. This process can be repeated for various websites for work I wish to assign to students by helping assess student completion.
 
 ## The Problem:
 
