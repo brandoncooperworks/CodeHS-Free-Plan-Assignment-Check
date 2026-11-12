@@ -53,7 +53,7 @@ As a result, I can transition directly into reviewing student work rather than s
    - Assignment IDs folder - Should contain a text file of each homework sets assignment IDs.
    - See sample files provided
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <p align="center">
     <img src="screenshots/Complete_Example.jpg" width = 700 vspace = 40/>
 </p>
