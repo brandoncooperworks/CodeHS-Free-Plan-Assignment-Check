@@ -37,7 +37,7 @@ As a result, I can transition directly into reviewing student work rather than s
 
 ## How It Works
 
-<br>
+<br><br>
 <img src="screenshots/Parts12.jpg" width = 500 align = "right" hspace=20 vspace=20/>
 
 1. Starting the Program: When the program runs, the teacher is prompted to choose which class to begin with, according to the menu options provided.
@@ -53,6 +53,7 @@ As a result, I can transition directly into reviewing student work rather than s
    - Assignment IDs folder - Should contain a text file of each homework sets assignment IDs.
    - See sample files provided
 
+<br><br><br><br>
 <p align="center">
     <img src="screenshots/Complete_Example.jpg" width = 700 vspace = 40/>
 </p>
