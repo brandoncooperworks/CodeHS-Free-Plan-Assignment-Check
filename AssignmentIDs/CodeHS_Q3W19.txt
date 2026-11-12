@@ -1,0 +1,9 @@
+109673081 - 8.2.6 Binary Game
+109673082 - 8.2.7 Overflow Error
+109673091 - 8.3.7 Hello Karel in Bits
+109673092 - 8.3.8 Create your own Encoding
+109673093 - 8.3.9 Text to Binary
+109673100 - 8.4.5 Checkerboard
+109673101 - 8.4.6 Ladder
+109673102 - 8.4.7 Create an Image
+109673107 - 8.5.4 Binary to Hex

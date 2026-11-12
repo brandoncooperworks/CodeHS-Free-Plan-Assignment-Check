@@ -1,0 +1,14 @@
+109673114 - 8.6.6 Exploring RGB
+109673115 - 8.6.7 Making Yellow
+109673116 - 8.6.8 Rainbow
+109673117 - 8.6.9 Create a Color Image
+109673126 - 8.7.8 Invert Filter
+109673127 - 8.7.9 Blue Filter
+109673128 - 8.7.10 Darken Filter
+109673135 - 8.8.5 RLE
+109673136 - 8.8.6 Custom Image Compression
+109673141 - 8.9.3 Removing the Vowels
+109673142 - 8.9.4 Decreasing the Resolution
+109673144 - 8.9.6 Respond: Analog to Digital
+109673152 - 8.10.7 Caesar Cipher Reflectoin
+109673153 - 8.10.8 Guess the Passcode

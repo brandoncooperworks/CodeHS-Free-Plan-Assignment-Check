@@ -1,0 +1,19 @@
+109673015 - 7.1.7 Fix this Tuple
+109673016 - 7.1.8 Citation
+109673017 - 7.1.9 Diving Contest
+109673018 - 7.1.10 Coordinate Pairs
+109673025 - 7.2.6 Spell it Out
+109673027 - 7.2.8 Listed Greeting
+109673028 - 7.2.9 Top Movies
+109673036 - 7.3.6 Max in List
+109673037 - 7.3.7 Owls
+109673038 - 7.3.8 Exclamation Points
+109673039 - 7.3.9 Word Ladder
+109673045 - 7.4.4 How many NameS?
+109673046 - 7.4.5 Five Numbers
+109673048 - 7.4.7 Librarian
+109673053 - 7.4.12 Empty List
+109673054 - 7.4.13 Take a Thing...
+109673055 - 7.4.14 Librarian II
+109673056 - 7.4.15 Owls II
+109673063 - 7.5.4 Coin Flip
