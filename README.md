@@ -45,7 +45,7 @@ As a result, I can transition directly into reviewing student work rather than s
 2. Logging In: The CodeHS Login Page will be launched in a separate browser after a class is selected where the teacher will enter their credentials.
    - The teacher may optionally enter their CodeHS credentials to allow the program to automatically log in to CodeHS each time it runs.
 
-<img src="screenshots/studentselect.jpg" width = 300 align = "right" hspace=20 vspace=40/>
+<img src="screenshots/StudentSelect" width = 300 align = "right" hspace=20 vspace=40/>
 <br><br>
 3. Select a Student: Once the teacher is logged in, they may continue in the console window and choose a student to begin with according to the menu. This allows teacher to pause a grading session and resume later without restarting from the beginning of the class.
    - Student IDs folder - Should contain a separate text file for each class that contains the class ID, and all student IDs for CodeHS.
