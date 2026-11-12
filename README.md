@@ -52,19 +52,17 @@ As a result, I can transition directly into reviewing student work rather than s
    <br><br>
 2. Logging In: The CodeHS Login Page will be launched in a separate browser after a class is selected where the teacher will enter their credentials.
    - The teacher may optionally enter their CodeHS credentials to allow the program to automatically log in to CodeHS each time it runs.
-<br><br><br><br>
+     <br><br><br><br>
 
-<img src="screenshots/StudentSelect.jpg" width = 300 align = "right" hspace=20 vspace=40/>
-<br><br>
+    <img src="screenshots/StudentSelect.jpg" width = 300 align = "right" hspace=20 vspace=40/>
+    <br><br>
+
 3. Select a Student: Once the teacher is logged in, they may continue in the console window and choose a student to begin with according to the menu. This allows teacher to pause a grading session and resume later without restarting from the beginning of the class.
    - Student IDs folder - Should contain a separate text file for each class that contains the class ID, and all student IDs for CodeHS.
    - Assignment IDs folder - Should contain a text file of each homework sets assignment IDs.
    - See sample files provided
 
-<br><br><br><br><br><br><br><br>
-<p align="center">
-    <img src="screenshots/Complete_Example.jpg" width = 700 vspace = 40/>
-</p>
+<br><br><br>
 
 4. Automated URL Generation: When a student is selected, the browser immediately opens up the student's student overview page, and all selected assignments.
    - The program generates a URL according to the section, student, and assignment IDs provided in the file.
@@ -72,5 +70,11 @@ As a result, I can transition directly into reviewing student work rather than s
 
    - Eliminates the search and selection of each assignment <!-- Image Here -->.
    - Allows each assignment to load concurrently, and allows for each program to run concurrently drastically reducing wait time.
+   <br>
+   <p align="center">
+       <img src="screenshots/Complete_Example.jpg" width = 700 vspace = 40/>
+   </p>
+   <br>
+   <img src="screenshots/march.jpg" width = 300 align = "right" hspace=20 vspace=0/>
 
 5. Student Navigation: The teacher cycles through students in the class roster to continue grading their assignments. When done with one student's assignments, close down all tabs, but the original browser tab, and continue in the menu of the console window.
