@@ -1,4 +1,4 @@
-# CodeHS Free Plan Assignment Viewer in Python
+# CodeHS Free Plan Assignment Loader in Python
 
 #### Streamlines the grading workflow for CodeHS Free Plan.
 
@@ -46,22 +46,24 @@ As a result, I can transition directly into reviewing student work rather than s
 ## How It Works
 
 <br>
-<img src="screenshots/Parts12.jpg" width = 500 align = "right" hspace=20/>
+<img src="screenshots/Parts12.jpg" width = 500 align = "right" hspace=20 vspace=20/>
 
 1. Starting the Program: When the program runs, the teacher is prompted to choose which class to begin with, according to the menu options provided.
    <br><br>
 2. Logging In: The CodeHS Login Page will be launched in a separate browser after a class is selected where the teacher will enter their credentials.
    - The teacher may optionally enter their CodeHS credentials to allow the program to automatically log in to CodeHS each time it runs.
+<br><br><br><br>
 
-<img src="screenshots/studentselect.jpg" width = 300 align = "right" hspace=20 vspace=40/>
+<img src="screenshots/StudentSelect.jpg" width = 300 align = "right" hspace=20 vspace=40/>
 <br><br>
 3. Select a Student: Once the teacher is logged in, they may continue in the console window and choose a student to begin with according to the menu. This allows teacher to pause a grading session and resume later without restarting from the beginning of the class.
    - Student IDs folder - Should contain a separate text file for each class that contains the class ID, and all student IDs for CodeHS.
    - Assignment IDs folder - Should contain a text file of each homework sets assignment IDs.
    - See sample files provided
 
+<br><br><br><br><br><br><br><br>
 <p align="center">
-    <img src="screenshots/Complete_Example.jpg" width = 700 vspace = 20>
+    <img src="screenshots/Complete_Example.jpg" width = 700 vspace = 40/>
 </p>
 
 4. Automated URL Generation: When a student is selected, the browser immediately opens up the student's student overview page, and all selected assignments.
